@@ -1,0 +1,2202 @@
+[
+    {
+      "name": "Working Class Shoe",
+      "category": "Shoes",
+      "description": "Stylish Nike Shoe.",
+      "price": 38.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81jGP9IYOBL._AC_SR525_789_FMwebp_QL65__ryzmsw.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Nike Shoe",
+      "category": "Shoes",
+      "description": "Stylish Nike Shoe.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581837/shoefeature-pics3_r91amg.png",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Johnny Walker Shoe",
+      "category": "Shoes",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 51.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434461/818VN_2UJ1L._AC_SR525_789_FMwebp_QL65__rq5f2j.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Oldies Cowgirl",
+      "category": "Cowgirl hat",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors",
+      "price": 75.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434440/81rZ_Ab1oyL._AC_SR525_789_FMwebp_QL65__p1cm8f.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Nike white shoe",
+      "category": "Shoes",
+      "description": "Stylish Nike Shoe.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434456/618FhFPg8_L._AC_SR525_789_FMwebp_QL65__ufabcn.webp",
+      "rating": 4.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Black Jackets",
+      "category": "Jackets",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434404/71k5lUwDNkL._AC_SR525_789_FMwebp_QL65__kbklvp.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Xender shoe",
+      "category": "Shoes",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434450/519BJHbcBJL._AC_SR525_789_FMwebp_QL65__i7lts2.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Black poopy cap",
+      "category": "Cap",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434453/614IS0WfUfL._AC_SR525_789_FMwebp_QL65__be3adw.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Xender black shoe",
+      "category": "Shoes",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 35.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434446/410-L0vF3_L._AC_SR525_789_FMwebp_QL65__bakbk6.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Smooth blacks shoe",
+      "category": "Shoes",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434441/81U10ZxFBwL._AC_SR789_789_FMwebp_QL65__xggt9o.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "S Timber Sol shoe",
+      "category": "Shoes",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 45.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434440/81RZaolzogL._AC_SR525_789_FMwebp_QL65__rmimvw.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Working Class Shoe",
+      "category": "Shoes",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 38.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81jGP9IYOBL._AC_SR525_789_FMwebp_QL65__ryzmsw.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Syntax Shoe",
+      "category": "Shoes",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434424/71zn7IYoMtL._AC_SR525_789_FMwebp_QL65__wqzpna.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Chinos short",
+      "category": "Shorts",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 120.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81vZzADxjUL._AC_SR525_789_FMwebp_QL65__grr0uh.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Espradrilles shoe",
+      "category": "Shoes",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 48.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434420/71VB4gOzYDL._AC_SR525_789_FMwebp_QL65__vrcmp2.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bodycon Dress",
+      "category": "Midi Dresses",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581836/new-coolection2-frame_atjvxh.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cocktail Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 39.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581836/new-collecton3-frame_lcl3z2.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cocktail Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581829/new-collection4-frame_trvktx.png",
+      "rating": 4.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581828/new-collection1-frame_ca7l9j.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jean Cap",
+      "category": "Cap",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434430/81fml8j-a7L._AC_SR525_789_FMwebp_QL65__nbe1uq.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581823/latest-collection4_eurwob.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Halterneck Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 98.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581820/latest-collection3_tftfxc.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Halterneck Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 57.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581817/latest-collection_mufnc1.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581816/latest-collection2_v5y40h.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581813/Hot-rightnow-frame4_nmbwi8.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans pant",
+      "category": "Pants",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81ZInfhgAiL._AC_SR525_789_FMwebp_QL65__khvg3f.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Wrap Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 120.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581812/Hot-rightnow-frame3_izii2n.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Wrap Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581811/Hot-rightnow-frame2_uacdwe.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bardot Midi Dress",
+      "category": "Midi Dresses",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 130.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581810/Hot-rightnow-frame1_xxsil2.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans pant",
+      "category": "Pants",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 130.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434462/7122u1UtvqL._AC_SR525_789_FMwebp_QL65__potgud.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual Jacket",
+      "category": "Jackets",
+      "description": "Bright colors, bold patterns, statement pieces",
+      "price": 130.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434459/814pSTOO3xL._AC_SR525_789_FMwebp_QL65__jicgng.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jean Jacket",
+      "category": "Jackets",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434457/716H1_o7nbL._AC_SR525_789_FMwebp_QL65__q4adue.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Xinyen Hoodies",
+      "category": "Hoodies",
+      "description": "Flattering silhouette, breathable fabric, versatile design.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434456/618VsrEPzNL._AC_SR525_789_FMwebp_QL65__bwjgzx.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Mambila Hoodies",
+      "category": "Hoodies",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434455/616F-3YFHyL._AC_SR525_789_FMwebp_QL65__dnnx1k.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Swead Jacket",
+      "category": "Jackets",
+      "description": "Stylish Nike Shoe.",
+      "price": 80.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434453/614VXl7BjqL._AC_SR525_789_FMwebp_QL65__argsww.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Black poopy cap",
+      "category": "Cap",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434453/614IS0WfUfL._AC_SR525_789_FMwebp_QL65__be3adw.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434452/613ycRul4gL._AC_SR525_789_FMwebp_QL65__poebjj.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bucket Cap",
+      "category": "Cap",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434452/612RT7OLQEL._AC_SR525_789_FMwebp_QL65__hqx9iq.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Black Star hoodies",
+      "category": "Hoodies",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434451/611L7CGSoqL._AC_SR525_789_FMwebp_QL65__p1vpds.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cotton Jacket",
+      "category": "Jackets",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 80.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434444/81p85vEEAvL._AC_SR525_789_FMwebp_QL65__fdofbq.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cotton Jacket",
+      "category": "Jackets",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434448/512_Wsl4oyL._AC_SR525_789_FMwebp_QL65__zygnjo.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans pant",
+      "category": "Pants",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 80.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434446/91GYglO_HHL._AC_SR525_789_FMwebp_QL65__csgezp.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 80.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434446/91MZMCGta6S._AC_SR525_789_FMwebp_QL65__vjvaju.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81ZInfhgAiL._AC_SR525_789_FMwebp_QL65__khvg3f.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81ZInfhgAiL._AC_SR525_789_FMwebp_QL65__khvg3f.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "White Safari bag",
+      "category": "Bags",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors",
+      "price": 120.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81z2AYXwEML._AC_SR525_789_FMwebp_QL65__gddrr3.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Chinos",
+      "category": "Shorts",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 120.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434445/81vZzADxjUL._AC_SR525_789_FMwebp_QL65__grr0uh.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Leather Bag",
+      "category": "Bags",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434444/81VWUworybL._AC_SR525_789_FMwebp_QL65__yzt55e.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Smooth Jacket",
+      "category": "Jackets",
+      "description": "Clean lines, simple yet stylish, modern cuts",
+      "price": 115.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434444/81VWUworybL._AC_SR525_789_FMwebp_QL65__yzt55e.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace Hat",
+      "category": "Cowgirl hat",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 115.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434441/81sGaP_Da8L._AC_SR525_789_FMwebp_QL65__wgkhvx.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Ladies Affair pant",
+      "category": "Pants",
+      "description": "Stylish Nike Shoe.",
+      "price": 115.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434440/81r30fvFbjL._AC_SR789_789_FMwebp_QL65__wqevcu.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Oldies hat",
+      "category": "Cowgirl hat",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 75.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434440/81rZ_Ab1oyL._AC_SR525_789_FMwebp_QL65__p1cm8f.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Brownies hat",
+      "category": "Cowgirl hat",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 81.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434437/81M3lzoeNJL._AC_SR789_789_FMwebp_QL65__xlqngj.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace hat",
+      "category": "Cowgirl hat",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81IqMxMpujL._AC_SR789_789_FMwebp_QL65__qjutzt.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lightening Short",
+      "category": "Shorts",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81lIDLgT-aL._AC_SR525_789_FMwebp_QL65__zhku2b.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Stripe",
+      "category": "Shorts",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 60.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81jxP1UCMoL._AC_SR525_789_FMwebp_QL65__hcrot0.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 60.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434434/81iMzTmL6KL._AC_SR525_789_FMwebp_QL65__mztduz.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434430/81hKwMbu9VL._AC_SR789_789_FMwebp_QL65__bj3oup.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434430/81i9BwPgtEL._AC_SR525_789_FMwebp_QL65__wo35tr.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jean Cap",
+      "category": "Cap",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434430/81fml8j-a7L._AC_SR525_789_FMwebp_QL65__nbe1uq.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "All Back hoodies",
+      "category": "Hoodies",
+      "description": "Flattering silhouette, breathable fabric, versatile design",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434429/81FKe5TAaLL._AC_SR525_789_FMwebp_QL65__ys48rs.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Opening Hoodies",
+      "category": "Hoodies",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434429/81bcd8ckPdL._AC_SR525_789_FMwebp_QL65__zppjwu.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Smooths hoodies",
+      "category": "Hoodies",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 77.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434428/81eLUix6EKL._AC_SR525_789_FMwebp_QL65__g7bylj.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Pinky hoodies",
+      "category": "Hoodies",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 77.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434424/71z8GoIVmzL._AC_SR525_789_FMwebp_QL65__fl5ewl.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Faith Bag",
+      "category": "Bags",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 77.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434424/71z8GoIVmzL._AC_SR525_789_FMwebp_QL65__fl5ewl.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 77.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434422/71xW3WpKWpL._AC_SR525_789_FMwebp_QL65__ui2kpn.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Globes Hoodies",
+      "category": "Hoodies",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434422/71ysxftuFvL._AC_SR789_789_FMwebp_QL65__wjoxmi.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Globes Hoodies",
+      "category": "Hoodies",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434420/71WsnUCFrBL._AC_SR525_789_FMwebp_QL65__iqffpm.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "V-shape jackets",
+      "category": "Jackets",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434420/71WDLZAT_NL._AC_SR525_789_FMwebp_QL65__nmzfzq.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "V-shape hat",
+      "category": "Cowgirl hat",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel",
+      "price": 110.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434416/71Up_vzxutL._AC_SR525_789_FMwebp_QL65__skt7hy.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jackets",
+      "category": "Jackets",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 110.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434416/71OTm2ShT1L._AC_SR525_789_FMwebp_QL65__m8wvks.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Half Cut jacket",
+      "category": "Jackets",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434416/71qlQFQVxAL._AC_SR525_789_FMwebp_QL65__t5qoi9.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Elites jacket",
+      "category": "Jackets",
+      "description": "SStretch fabrics, comfortable fit, versatile design.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71pOAklxKsL._AC_SR525_789_FMwebp_QL65__m7ldgg.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Golden short",
+      "category": "Shorts",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71pOAklxKsL._AC_SR525_789_FMwebp_QL65__m7ldgg.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Golden hoodies",
+      "category": "Hoodies",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71o609PajjL._AC_SR525_789_FMwebp_QL65__cjb7mk.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "White mini dress",
+      "category": "Mini Dresses",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71OdBZrhfrL._AC_SR525_789_FMwebp_QL65__felfxa.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 106.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434411/71Nk7JVC0uL._AC_SR525_789_FMwebp_QL65__gchbfa.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Huggies",
+      "category": "Mini Dresses",
+      "description": "Flattering silhouette, breathable fabric, versatile design.",
+      "price": 106.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434410/71mTMX6koYL._AC_SR525_789_FMwebp_QL65__kvos0e.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Huggies",
+      "category": "Mini Dresses",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 106.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434410/71NhYeg5O8L._AC_SR525_789_FMwebp_QL65__rnrco8.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual Short",
+      "category": "Shorts",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 106.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434409/71Mji8QVtKL._AC_SR525_789_FMwebp_QL65__nmlsjk.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Organic cotton, recycled materials, sustainable production..",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434409/71LYkHLwPkL._AC_SR789_789_FMwebp_QL65__wwpbx8.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Ghost cowgirl",
+      "category": "Cowgirl hat",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434408/71LUjjSKQiL._AC_SR525_789_FMwebp_QL65__qkmpdk.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Ghost short",
+      "category": "Shorts",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434408/71ky9BM0ZaL._AC_SR525_789_FMwebp_QL65__mjvsxw.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434405/71KI2MZQLeS._AC_SR525_789_FMwebp_QL65__f4gtk2.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual bag",
+      "category": "Bags",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434405/71KhKKoLm6L._AC_SR525_789_FMwebp_QL65__iucwok.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Black jacket",
+      "category": "Jackets",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434404/71k5lUwDNkL._AC_SR525_789_FMwebp_QL65__kbklvp.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434404/71K5bQGuHwL._AC_SR525_789_FMwebp_QL65__ykq2uq.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Flower short",
+      "category": "Shorts",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 66.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434403/71K1ss-opOL._AC_SR525_789_FMwebp_QL65__vytnwp.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Flower",
+      "category": "Shorts",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434401/71-JYiLAL4L._AC_SR525_789_FMwebp_QL65__fx0sct.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Butterfly bag",
+      "category": "Bags",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434402/71jz8cp8QPL._AC_SR525_789_FMwebp_QL65__d3wqzn.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Flower short",
+      "category": "Shorts",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 110.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434401/71-JYiLAL4L._AC_SR525_789_FMwebp_QL65__fx0sct.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain short",
+      "category": "Shorts",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 110.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434398/71jo4YhSgeL._AC_SR525_789_FMwebp_QL65__tsqegu.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain cap",
+      "category": "Cap",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434398/71JgYbYeOvL._AC_SR525_789_FMwebp_QL65__vczbdi.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans cap",
+      "category": "Cap",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434398/71Je0_jNJvL._AC_SR525_789_FMwebp_QL65__zcybi5.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain Black cowgirl",
+      "category": "Cowgirl hat",
+      "description": "Flattering silhouette, breathable fabric, versatile design.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434395/71JcgjMRCxL._AC_SR525_789_FMwebp_QL65__brxlma.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Folds Hat",
+      "category": "Cowgirl hat",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434395/71IHvilBKVL._AC_SR525_789_FMwebp_QL65__uwnood.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Pinky bag",
+      "category": "Bags",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434394/71IhU8EtLKL._AC_SR525_789_FMwebp_QL65__hnhpca.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434394/71HVSFd9fyL._AC_SR525_789_FMwebp_QL65__ww56nx.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": " Stretch fabric, elastic waistband, flexible fit.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434393/71HHE05eFNL._AC_SR525_789_FMwebp_QL65__huhato.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain pant",
+      "category": "Pants",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434391/71gKcqlFfnL._AC_SR525_789_FMwebp_QL65__yuscx3.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain short",
+      "category": "Shorts",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 82.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434391/71dV1so9owL._AC_SR525_789_FMwebp_QL65__i337rd.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Spotted short",
+      "category": "Shorts",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 82.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434393/71GRC-UVLoS._AC_SR525_789_FMwebp_QL65__mrtepl.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain",
+      "category": "Jackets",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 82.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434390/71DOPxLVvKL._AC_SR525_789_FMwebp_QL65__lvgq5z.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain hat",
+      "category": "Cowgirl hat",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 51.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434390/71DOPxLVvKL._AC_SR525_789_FMwebp_QL65__lvgq5z.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans mini dress",
+      "category": "Mini Dresses",
+      "description": "Thick, warm material, durable stitching, available in various styles.",
+      "price": 51.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434387/71bom5u8-2L._AC_SR525_789_FMwebp_QL65__si9of6.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bluish top mini dress",
+      "category": "Mini Dresses",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 32.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434387/71_ifyrvFHL._AC_SR525_789_FMwebp_QL65__w3zaj2.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bluish top short",
+      "category": "Shorts",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 32.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434387/71am6R6HvPL._AC_SR525_789_FMwebp_QL65__odv6ya.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Gray Cap",
+      "category": "Cap",
+      "description": "Clean lines, simple yet stylish, modern cuts.",
+      "price": 32.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434384/61yWP1gZHML._AC_SR525_789_FMwebp_QL65__ckrbdg.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Louis Vuitton Bag",
+      "category": "Bags",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 150.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434382/61ydxiR48WL._AC_SR525_789_FMwebp_QL65__czrtnk.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Mushroon Designs bag",
+      "category": "Bags",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434381/61XG1lyUJEL._AC_SR525_789_FMwebp_QL65__mwcnqt.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Mushroon Designs dress",
+      "category": "Mini Dresses",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434380/61W4cJ1lqFL._AC_SR525_789_FMwebp_QL65__f4albv.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Africss Hoodies",
+      "category": "Hoodies",
+      "description": "Flattering silhouette, breathable fabric, versatile design.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434379/61VqOgM5mRL._AC_SR525_789_FMwebp_QL65__apwjpw.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Africss Hoodies",
+      "category": "Hoodies",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434378/61ve7u8N_2L._AC_SR525_789_FMwebp_QL65__extw5w.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Blackish Gold Bag",
+      "category": "Bags",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434378/61USlxpmxJL._AC_SR525_789_FMwebp_QL65__bplnh0.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain mini",
+      "category": "Mini Dresses",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434377/61Useb2OUBL._AC_SR525_789_FMwebp_QL65__o4hi4q.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Edged Buttons hat",
+      "category": "Cowgirl hat",
+      "description": "Stretch fabric, elastic waistband, flexible fit",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434377/61Useb2OUBL._AC_SR525_789_FMwebp_QL65__o4hi4q.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans",
+      "category": "Pants",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434376/61U5oat3TcL._AC_SR525_789_FMwebp_QL65__cmalbh.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Plain Black cap",
+      "category": "Cap",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434374/61TAs7fojmL._AC_SR525_789_FMwebp_QL65__vlfpkx.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Slidder hat",
+      "category": "Cowgirl hat",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434363/61NH871r49L._AC_SR525_789_FMwebp_QL65__nukclh.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Glossy Shorts",
+      "category": "Shorts",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434362/61N1p_z4IIL._AC_SR525_789_FMwebp_QL65__ijhhxm.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Belt Liner short",
+      "category": "Shorts",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434360/61-m-855IaS._AC_SR789_789_FMwebp_QL65__jnah96.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans Cap",
+      "category": "Cap",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434359/61k8UyBN9DL._AC_SR525_789_FMwebp_QL65__efgjxx.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans Cap",
+      "category": "Cap",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434358/61JoRzfbX7L._AC_SR525_789_FMwebp_QL65__rr8lzx.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans Cap",
+      "category": "Cowgirl hat",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434359/61JOP3yktcL._AC_SR525_789_FMwebp_QL65__uhlrbw.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans Cap",
+      "category": "Cap",
+      "description": "Clean lines, simple yet stylish, modern cuts",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434356/61i-ZVpM0UL._AC_SR525_789_FMwebp_QL65__htb5j2.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Ladies corner mini",
+      "category": "Mini Dresses",
+      "description": "Bright colors, bold patterns, statement pieces",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434354/61HFHyxaCIL._AC_SR525_789_FMwebp_QL65__qdlnsg.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Ladies corner mini",
+      "category": "Mini Dresses",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434353/61GSgyL81cL._AC_SR525_789_FMwebp_QL65__ewnk75.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Close Shorts",
+      "category": "Shorts",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434350/61evkx0EPSL._AC_SR525_789_FMwebp_QL65__elivv9.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Close Shorts",
+      "category": "Shorts",
+      "description": "Flattering silhouette, breathable fabric, versatile design..",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434349/61Eo13WSC5L._AC_SR525_789_FMwebp_QL65__jiz0th.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Close Shorts",
+      "category": "Shorts",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434344/61AJWIKAcgL._AC_SR525_789_FMwebp_QL65__doenh6.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Rugged pant",
+      "category": "Pants",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434344/51St8hHzElL._AC_SR789_789_FMwebp_QL65__rmkw1j.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Mimi Bag",
+      "category": "Bags",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 55.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434341/51med289bvL._AC_SR525_789_FMwebp_QL65__eij1tj.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Slightly Moof hoodies",
+      "category": "Hoodies",
+      "description": "Stretch fabric, elastic waistband, flexible fit.",
+      "price": 55.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434341/51kRpUbFcyL._AC_SR525_789_FMwebp_QL65__iboxhp.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Slightly Moof hoodies",
+      "category": "Hoodies",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 55.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434340/41uLXQyt0QL._AC_SR525_789_FMwebp_QL65__vavrse.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Slightly Moof hoodies",
+      "category": "Cowgirl hat",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434340/51Cn8XR9FIL._AC_SR525_789_FMwebp_QL65__wpmnvu.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Wrap Midi Dress",
+      "category": "Hot Right Now",
+      "description": "Tailored cut, sleek design, wrinkle-resistant fabric.",
+      "price": 120.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581812/Hot-rightnow-frame3_izii2n.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Wrap Midi Dress",
+      "category": "Hot Right Now",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581811/Hot-rightnow-frame2_uacdwe.png",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bardot Midi Dress",
+      "category": "Hot Right Now",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 130.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581810/Hot-rightnow-frame1_xxsil2.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace Midi Dress",
+      "category": "Hot Right Now",
+      "description": "Organic cotton, recycled materials, sustainable production.",
+      "price": 100.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581813/Hot-rightnow-frame4_nmbwi8.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Close Shorts",
+      "category": "Hot Right Now",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 65.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434350/61evkx0EPSL._AC_SR525_789_FMwebp_QL65__elivv9.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jeans Cap",
+      "category": "Hot Right Now",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel.",
+      "price": 102.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434359/61k8UyBN9DL._AC_SR525_789_FMwebp_QL65__efgjxx.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Blackish Gold Bag",
+      "category": "Hot Right Now",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434378/61USlxpmxJL._AC_SR525_789_FMwebp_QL65__bplnh0.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Bodycon Dress",
+      "category": "New Arrivals",
+      "description": "Relaxed fit, breathable fabric, available in various colors.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581836/new-coolection2-frame_atjvxh.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cocktail Midi Dress",
+      "category": "New Arrivals",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 39.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581836/new-collecton3-frame_lcl3z2.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Cocktail Midi Dress",
+      "category": "New Arrivals",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581829/new-collection4-frame_trvktx.png",
+      "rating": 4.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Casual Midi Dress",
+      "category": "New Arrivals",
+      "description": "Organic cotton, sustainable production, eco-friendly dyes.",
+      "price": 90.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581828/new-collection1-frame_ca7l9j.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Nike Shoe",
+      "category": "New Arrivals",
+      "description": "Stylish Nike Shoe.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581837/shoefeature-pics3_r91amg.png",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Leather Bag",
+      "category": "New Arrivals",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 50.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434444/81VWUworybL._AC_SR525_789_FMwebp_QL65__yzt55e.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Stripe",
+      "category": "New Arrivals",
+      "description": "Stretch fabrics, comfortable fit, versatile design.",
+      "price": 60.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434436/81jxP1UCMoL._AC_SR525_789_FMwebp_QL65__hcrot0.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "White",
+      "category": "New Arrivals",
+      "description": "Soft floral prints, lightweight fabrics, feminine fit.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71OdBZrhfrL._AC_SR525_789_FMwebp_QL65__felfxa.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "V-shape",
+      "category": "New Arrivals",
+      "description": "Gender-neutral design, all sizes available, soft and cozy feel",
+      "price": 110.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434416/71Up_vzxutL._AC_SR525_789_FMwebp_QL65__skt7hy.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Jean Cap",
+      "category": "Latest Collections",
+      "description": "Day-to-night style, classic cuts, easy to accessorize.",
+      "price": 30.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434430/81fml8j-a7L._AC_SR525_789_FMwebp_QL65__nbe1uq.webp",
+      "rating": 5.0,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Halterneck Midi Dress",
+      "category": "Latest Collections",
+      "description": "Ultra-soft fabric, relaxed fit, available in multiple colors.",
+      "price": 98.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581820/latest-collection3_tftfxc.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Halterneck Midi Dress",
+      "category": "Latest Collections",
+      "description": "Slim fit, cuffed ankles, soft and stretchy material.",
+      "price": 57.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581817/latest-collection_mufnc1.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Lace Midi Dress",
+      "category": "Latest Collections",
+      "description": "Multiple pockets, durable fabric, versatile design.",
+      "price": 70.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728581816/latest-collection2_v5y40h.png",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Golden",
+      "category": "Latest Collections",
+      "description": "Bright colors, bold patterns, statement pieces.",
+      "price": 56.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434415/71o609PajjL._AC_SR525_789_FMwebp_QL65__cjb7mk.webp",
+      "rating": 4.8,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    },
+    {
+      "name": "Xender shoe",
+      "category": "Latest Collections",
+      "description": "Unique designs, graphic prints, soft and durable fabric.",
+      "price": 40.99,
+      "image": "https://res.cloudinary.com/deliugmys/image/upload/v1728434450/519BJHbcBJL._AC_SR525_789_FMwebp_QL65__i7lts2.webp",
+      "rating": 4.5,
+      "quantity": "0",
+      "author": {
+        "id": "2302mn551",
+        "email": "admin@gmail.com"
+      },
+      "createdAt": "2025-07-17"
+    }
+  ]
+  
