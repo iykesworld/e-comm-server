@@ -14,7 +14,7 @@ app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(express.json({limit: '25mb'}));
 app.use(cors({
-    origin: ['http://localhost:5173', 'https://e-comm-store-923g.vercel.app/'],
+    origin: ['http://localhost:5173', 'https://e-comm-store-923g.vercel.app'],
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH'],
     allowedHeaders: ['Content-Type', 'Authorization', 'Origin'],
