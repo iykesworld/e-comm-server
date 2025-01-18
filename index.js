@@ -8,22 +8,15 @@ const bodyParser = require('body-parser')
 const path = require('path'); 
 const port = process.env.PORT || 5000
 
-// Validate environment variables
-if (!process.env.MONGODB_URL || !process.env.JWT_SECRET_KEY) {
-  console.error('❌ MONGODB_URL or JWT_SECRET_KEY is not set in the environment.');
-  process.exit(1);  // Exit if critical variables are missing
-}
-
 // middleware set up
 app.use(express.urlencoded({ limit: '25mb', extended: true }));
-app.use(express.json({limit: '25mb'}));
 app.use(cookieParser());
-// app.use(bodyParser.json());
+app.use(bodyParser.json());
+app.use(express.json({limit: '25mb'}));
 app.use(cors({
-    origin: ['https://e-comm-store-923g.vercel.app'],
-    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
-    credentials: true
+    origin: 'http://localhost:5173',
+    methods: ['GET', 'POST', 'PUT', 'DELETE','PATCH'],
+    credentials: true,
 }));
 
 // all routes
