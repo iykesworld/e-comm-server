@@ -14,7 +14,7 @@ app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(express.json({limit: '25mb'}));
 app.use(cors({
-    origin: 'http://localhost:5173',
+    origin: ['http://localhost:5173', 'https://e-comm-store-frontend.onrender.com'],
     methods: ['GET', 'POST', 'PUT', 'DELETE','PATCH'],
     credentials: true,
 }));
