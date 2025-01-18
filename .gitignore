@@ -1,2 +1,4 @@
 # secrete key
 .env
+
+node_modules/
